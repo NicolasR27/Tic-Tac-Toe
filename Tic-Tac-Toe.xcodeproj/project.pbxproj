@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E0A8BF7263D129A0084E8C3 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E0A8BF6263D129A0084E8C3 /* Alerts.swift */; };
 		3E4660CA263CE9E500E5C01C /* Tic_Tac_ToeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4660C9263CE9E500E5C01C /* Tic_Tac_ToeApp.swift */; };
 		3E4660CC263CE9E500E5C01C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4660CB263CE9E500E5C01C /* ContentView.swift */; };
 		3E4660CE263CE9E700E5C01C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E4660CD263CE9E700E5C01C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E0A8BF6263D129A0084E8C3 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		3E4660C6263CE9E500E5C01C /* Tic-Tac-Toe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tic-Tac-Toe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E4660C9263CE9E500E5C01C /* Tic_Tac_ToeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeApp.swift; sourceTree = "<group>"; };
 		3E4660CB263CE9E500E5C01C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		3E4660BD263CE9E500E5C01C = {
 			isa = PBXGroup;
 			children = (
+				3E0A8BF6263D129A0084E8C3 /* Alerts.swift */,
 				3E4660C8263CE9E500E5C01C /* Tic-Tac-Toe */,
 				3E4660C7263CE9E500E5C01C /* Products */,
 			);
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E4660CC263CE9E500E5C01C /* ContentView.swift in Sources */,
+				3E0A8BF7263D129A0084E8C3 /* Alerts.swift in Sources */,
 				3E4660CA263CE9E500E5C01C /* Tic_Tac_ToeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
