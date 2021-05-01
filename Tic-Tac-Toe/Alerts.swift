@@ -9,16 +9,16 @@ struct AlertItem: Identifiable{
 }
 
 struct AlertContext {
-   static let humanWin  = AlertItem(tite: Text("you win"),
+   static let humanWin  = AlertItem(title: Text("you win"),
                       message: Text("you are so smart"),
                       buttonTitle: Text("hell yeah"))
     
     
-    static let computuerWin = AlertItem(tite: Text("you lost"),
+    static let computuerWin = AlertItem(title: Text("you lost"),
                       message: Text("you programmed super ai"),
                       buttonTitle: Text("rematch"))
     
-    static let draw =  AlertItem(tite: Text("draw"),
+    static let draw =  AlertItem(title: Text("draw"),
                       message: Text("you are so smart"),
                       buttonTitle: Text("try again"))
     
