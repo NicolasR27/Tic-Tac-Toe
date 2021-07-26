@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-Sean Allens SwiftUI PortFolio App
+Sean Allens SwiftUI  Tutorial PortFolio App
